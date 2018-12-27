@@ -1,0 +1,49 @@
+TUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+T             VUUUVUUUUUUVUUUW       XUUUUVUUUUS                     XUUUUUUUUVUUUUUUUUUUUUUUUUUUUUS                                                  UUUUX                                          XX
+T               VUUUUUUUW              XVUUUUUS                        UUUUUUUUUUUUUUUUUUUUUUUUUUUUS                                                 UUUUUX                                          XX
+T			            VUUUU                  XUUUUU                                                                                                       UUUUUUX                                       XXX
+T			            XUUS                    UUUUU                                                                                                     UUUUUUUUX                                        XX
+T			            UUU                    VUUUU                                                                                                                                                        X
+T			            UUU                   UUS 	                                          XTTTTTSTTTSTTTTTTTSTTX			                                                                                 XX
+T                UUUU                 				                                       VUUUUUUUUUUUUUUUUUUS                                                                  TTTTTTTTT                 XX
+T                                                                                                                                                                     VSSSSSSSSSSSSSSSSSU           XXX
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                     X
+T                              TTTTTTTTT                                                                                                        TSTSSSSSTTTTTSS                                      XX
+T                                                                                                      UUUXUUUUUUUXUU                                                                                XX
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                     X
+T				                   	                              XUUUUSUUUUUUUSUUUUUUUUUUUUUUV                                                                                                               X
+T				                                                     	  XTTTTTTTTTTTTTTTT                                                                                                                   XXX
+T                                                                                                                                                                                                    XX
+T                                                                                                                       SSR                                                                           X
+T                                                                                                                       VVV                                      SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS  XX
+T                                                   TUUUV                                                                                                                                            XX
+T		                                                 TTTTTTTTTTTTTTTTTTTTTTTT                                                                                                                        XX
+T                                                 XTTTTTTTTTTTTTTSTTTTTTTTTS                                                                                                                        XXX
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                     X
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                    XX
+T                                                                                                         SSSSSSSSSSSSSSSSSSSSSSSS                                                                    X
+T                                                                                                                                                                                                     X
+T                                                                                                                                                                                                    XX
+T              TTTSTTTTTTSTTTTTTTTTTSTTTTTTTTTSTTTTTTTTTTTTTTTTTTTSTTTTTTTTTTT                                                                                                                       XX
+T                                                                                                                                                                                                   XXX
+T                                                                                                                                                                                                   XXX
+T                                                                                                                                                                                                    XX
+T                                                                                                                                                                                                    XX
+T                       XTTTTTTTTSTTTTTTTSTTTT                                                                                                                                                        X
+T                        V                                                                                                                                                                            X
+T                        XVTTTTTTS                                                                                                                                                                   XX
+T                           VTTTTTT                                                                                                                                                                  XX
+T                           VTTTTTT                                                                  VTTTTTTTTTTTTTTTTS                                                                              XX
+T                           VTTTTTT                                                                   UUUUUUUUUUUUUUUUUUUUU                                                                           X
+T                            VTTTTTT                                                                                                                                                                 XX
+T                            VTTTTTT                                                                                                                                                                  X
+T                            TTTTTTT                                              TTTTTTS                                                                                                            XX
+T                           XTTTTTTTTT                                                                                                                                                                X
+T                      XTTTTTTTTTTTTT                                                                                                                                                   LAAAAAC       X
+UTTTTTUTTTUSTSTTUTUUUUUUTUUTTUUTTTTTTTTTTTTTUTTTTUUUSTTTSTTTTTUTTTTTTTTTTTSTTUUUTTTTSTTTTTTTUUTTTUUUSTTTTTTTTTTSTTTTUTTTTTTTTTTSTTTTTTTTTTTTTUUTTTTTTTTTSTTTTTTUTTTTTTTTTTSTTTTTTTTTTTTSTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
