@@ -20,7 +20,7 @@ public abstract class GameFramework {
         }
     }
 
-     // init frames and display
+    // init frames and display
     public void init() {
         screen = new ScreenManager();
         Window window = screen.getWindow();
@@ -29,7 +29,7 @@ public abstract class GameFramework {
         isRunning = true;
     }
 
-     // manage and update FPS 
+    // manage and update FPS 
     public void gameLoop() {
         long startTime = System.currentTimeMillis();
         long currTime = startTime;

@@ -163,7 +163,7 @@ public class GameManager extends GameFramework {
         for (int x = fromTileX; x <= toTileX; x++) {
             for (int y = fromTileY; y <= toTileY; y++) {
                 if (x < 0 || x >= map.getWidth() || map.getTile(x, y) != null) {
-                    collisionPoint.setLocation(x, y);
+                	collisionPoint.setLocation(x, y);
                     return collisionPoint;
                 }
             }
@@ -190,6 +190,8 @@ public class GameManager extends GameFramework {
         double dy =  player.getVelocityY();
   	    double oldY = player.getY();
   	    double nextY = oldY + dy * elapsedTime;
+  	    
+  	    
 
   	     Point tile = getTileCollision(player, player.getX(), nextY);
   	     if (tile != null) {
@@ -210,8 +212,8 @@ public class GameManager extends GameFramework {
 
     // landing location is currently located at the same tiles in every map
     public boolean checkWin(Player player) {
-		    int minTile = MapManager.tilesToPixels(183);
-		    int maxTile = MapManager.tilesToPixels(189);
+		    int minTile = MapManager.tilesToPixels(85);
+		    int maxTile = MapManager.tilesToPixels(90);
 
 		    if (player.getX() > minTile && player.getX() < maxTile) {
 			       return true;

@@ -18,7 +18,6 @@ public class AnimatedSprite {
     private boolean run = true;
     private int stopFrame = -1;
 
- 
     public AnimatedSprite() {
         frames = new ArrayList<AnimFrame>();
         totalDuration = 0;

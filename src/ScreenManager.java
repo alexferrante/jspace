@@ -62,7 +62,7 @@ public class ScreenManager {
         }
     }
 
-  // get current graphics 
+    // get current graphics 
     public Graphics2D getGraphics() {
         if (frame != null) {
             BufferStrategy strategy = frame.getBufferStrategy();
