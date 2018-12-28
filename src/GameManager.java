@@ -212,8 +212,8 @@ public class GameManager extends GameFramework {
 
     // landing location is currently located at the same tiles in every map
     public boolean checkWin(Player player) {
-		    int minTile = MapManager.tilesToPixels(85);
-		    int maxTile = MapManager.tilesToPixels(90);
+		    int minTile = MapManager.tilesToPixels(86);
+		    int maxTile = MapManager.tilesToPixels(91);
 
 		    if (player.getX() > minTile && player.getX() < maxTile) {
 			       return true;
